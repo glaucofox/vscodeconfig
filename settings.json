@@ -1,0 +1,32 @@
+{
+    "editor.fontFamily": "'Dank Mono','Envy Code R VS','JuliaMono','Consolas','Fira Code','Monoid','Iosevka SS10','JuliaMono Light','Operator Mono Book','Courier New', monospace",
+    "workbench.colorTheme": "Egoist One",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 18,
+    "window.zoomLevel": -1,
+    "files.associations": {
+        "*.class": "php",
+        "*.inc": "php",
+        "*.tmpl": "smarty"
+    },
+    "explorer.confirmDelete": false,
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": true,
+    "git.enableSmartCommit": true,
+    "[blade]": {},
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderIndentGuides": false,
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Consolas",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnSaveMode": "modifications",
+    "files.insertFinalNewline": true,
+    "git.confirmSync": false
+}
